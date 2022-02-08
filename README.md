@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi, Ceren here 👋</h1>
 
 :tada: :mortar_board: I have recently graduated from Bilkent University with a degree in Electrical and Electronics Engineering. 
 
